@@ -16,7 +16,7 @@
     (2024.11 - Present)  
 
 🌟 Current Interests  
-   - Interested in backend development, including building scalable server architectures and APIs.
+   - Interested in backend development, including building scalable server architectures and APIs.
    - Engaged in AI research, focusing on deep learning, Generative AI and llm  
      
 ✉️ Contact me
