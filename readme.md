@@ -16,8 +16,8 @@
     (2024.11 - Present)  
 
 🌟 Current Interests  
-   - Exploring backend development, including building scalable server architectures and APIs.  
-   - Engaged in AI research, focusing on deep learning and llm  
+   - Interested in backend development, including building scalable server architectures and APIs.
+   - Engaged in AI research, focusing on deep learning, Generative AI and llm  
      
 ✉️ Contact me
    - jaehoon0429@cau.ac.kr
