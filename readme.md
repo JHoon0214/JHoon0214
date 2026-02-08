@@ -1,27 +1,33 @@
 ## Hi there, this is Jaehoon Kim👋
 
-🏫 Graduated Chungnam Samsung Academy High School (CNSA)  
+🏫 Graduated Chungnam Samsung Academy High School (CNSA) IT Diploma  
     (2017.3 - 2020.2)
 
 🎓 Bachelor's Degree at Chung-Ang UNIV. Major in Computer Science and Engineering  
-    (2020.3 - 2025.8)  
+    (2020.3 - Present)  
 
-🎖️ ROKAF Sergeant (Honorable Discharged), Republic of Korea Air Force  
+🎖️ ROKAF Sergeant · IT/Information System (Honorable Discharged), Republic of Korea Air Force  
     (2022.2 - 2023.11)  
 
-💻 Rabbit Hole Company - Software Engineer ∙ Early Team Member  
+💻 Rabbit Hole Company - Software Engineer
     (2024.2 - 2024.5)  
 
 🔬 Undergraduate Student Researcher - Chung-Ang UNIV  
-    (2024.11 - Present)  
+    (2024.11 - 2025.2)
+    
+💻 Sam-Meows - Back-End Dev  
+    (2025.1 - Present)  
 
 🌟 Current Interests  
-   - Interested in backend development, including building scalable server architectures and APIs.
-   - Engaged in AI research, focusing on deep learning, Generative AI and llm  
+	- Backend engineer at a small early-stage startup building an AI cat companion service, working with my high school friends as an early team member.  
+	- Designing and implementing backend systems using NestJS, MySQL (relational DB), TypeORM, and pgvector-based lightweight RAG pipelines.  
+	- Actively working on LLM-driven conversational systems — integrating multiple LLMs, optimizing prompt flows, and improving memory retrieval so conversations feel more coherent and alive.  
+	- Interested in building practical, scalable AI services, where system design matters as much as model choice.  
+	- Used to be a dog person, but after working with 삼냥이즈, somehow became a cat person too 🐱  
      
 ✉️ Contact me
    - jaehoon0429@cau.ac.kr
-   - choco730522@gmail.com
+   - JHoon@sam-meows.com
    - https://www.linkedin.com/in/hoon0214/
 <br>
 
