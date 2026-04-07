@@ -1,35 +1,45 @@
-## Hi there, this is Jaehoon Kim👋
+## 안녕하세요, 백엔드 개발자 김재훈입니다 👋
 
-🏫 Graduated Chungnam Samsung Academy High School (CNSA) IT Diploma  
-    (2017.3 - 2020.2)
-
-🎓 Bachelor's Degree at Chung-Ang UNIV. Major in Computer Science and Engineering  
-    (2020.3 - Present)  
-
-🎖️ ROKAF Sergeant · IT/Information System (Honorable Discharged), Republic of Korea Air Force  
-    (2022.2 - 2023.11)  
-
-💻 Rabbit Hole Company - Software Engineer  
-    (2024.2 - 2024.5)  
-
-🔬 Undergraduate Student Researcher - Chung-Ang UNIV Cognitive Intelligence Research Lab  
-    (2024.11 - 2025.2)
-    
-🐱 Sam-Meows - Back-End Dev  
-    (2025.1 - Present)  
-	
----
-🌟 Current Interests  
-	- Backend engineer at a small early-stage startup building an AI cat companion service, working with my high school friends as an early team member.  
-	- Designing and implementing backend systems using NestJS, MySQL (relational DB), TypeORM, and pgvector-based lightweight RAG pipelines.  
-	- Actively working on LLM-driven conversational systems — integrating multiple LLMs, optimizing prompt flows, and improving memory retrieval so conversations feel more coherent and alive.  
-	- Former dog person, now team cat 🐱
-
- ---
-✉️ Contact me
-   - jaehoon0429@cau.ac.kr
-   - JHoon@sam-meows.com
-   - https://www.linkedin.com/in/hoon0214/
+고등학교 친구들과 함께 만든 스타트업 **삼냥이즈**에서  
+백엔드 개발자로 일하며 많은 것을 배우고 성장하고 있습니다 🥔  
+Node.js / NestJS 기반 서버를 개발하고 있습니다.
 
 ---
+
+### 📱 리티 다운로드
+
+<p align="center">
+  <a href="https://apps.apple.com/kr/app/%EB%A6%AC%ED%8B%B0-ritty-%EA%B7%80%EC%97%AC%EC%9A%B4-ai-%EA%B3%A0%EC%96%91%EC%9D%B4-%ED%82%A4%EC%9A%B0%EA%B8%B0/id6743311040">
+    <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.sammeows.ritty&hl=ko">
+    <img src="https://img.shields.io/badge/Google%20Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play"/>
+  </a>
+</p>
+
+---
+
+### 🛠 기술 스택
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+---
+
+### 🧩 PS
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaehoon0429)](https://solved.ac/jaehoon0429/)
+
+---
+
+### ✉️ Contact
+
+- **Email**: contact@spudneko.com  
+- **LinkedIn**: https://www.linkedin.com/in/hoon0214/
