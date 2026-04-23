@@ -6,18 +6,24 @@ Node.js / NestJS 기반 서버를 개발하고 있습니다.
 
 ---
 
-### 📱 리티 다운로드
-
 <p align="center">
-  <a href="https://apps.apple.com/kr/app/%EB%A6%AC%ED%8B%B0-ritty-%EA%B7%80%EC%97%AC%EC%9A%B4-ai-%EA%B3%A0%EC%96%91%EC%9D%B4-%ED%82%A4%EC%9A%B0%EA%B8%B0/id6743311040">
-    <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/>
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.sammeows.ritty&hl=ko">
-    <img src="https://img.shields.io/badge/Google%20Play-34A853?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=JHoon0214&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JHoon0214&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JHoon0214&theme=tokyonight&hide_border=true&background=0d1117" height="170"/>
+</p>
+
+### 📱 리티 다운로드
+<p align="center">
+  <a href="https://apps.apple.com/kr/app/%EB%A6%AC%ED%8B%B0-ritty-%EA%B7%80%EC%97%AC%EC%9A%B4-ai-%EA%B3%A0%EC%96%91%EC%9D%B4-%ED%82%A4%EC%9A%B0%EA%B8%B0/id6743311040">
+    <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.sammeows.ritty&hl=ko">
+    <img src="https://img.shields.io/badge/Google%20Play-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
+  </a>
+</p>
 
 ### 🛠 기술 스택
 
@@ -31,15 +37,11 @@ Node.js / NestJS 기반 서버를 개발하고 있습니다.
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 
----
-
-### 🧩 PS
+### 알고리즘
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaehoon0429)](https://solved.ac/jaehoon0429/)
 
----
-
 ### ✉️ Contact
 
-- **Email**: contact@spudneko.com  
-- **LinkedIn**: https://www.linkedin.com/in/hoon0214/
+- Email: contact@spudneko.com  
+- LinkedIn: https://www.linkedin.com/in/hoon0214/
